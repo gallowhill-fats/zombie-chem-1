@@ -1,2 +1,2 @@
 # zombie-chem-1
-An simple cognitive agent that can provide information on chemistry topics.
+An simple embodied cognitive agent that can provide information on chemistry topics.
